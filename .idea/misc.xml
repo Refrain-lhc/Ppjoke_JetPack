@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/123/ppjoke/app/src/main/res/drawable/bg_edit_view.xml" value="0.1451388888888889" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/drawable/bg_edit_view2.xml" value="0.1284722222222222" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/drawable/list_divider_2px.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/drawable/splash.xml" value="0.16458333333333333" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/activity_feed_detail_type_image.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/activity_layout_capture.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/activity_layout_list.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/activity_layout_preview.xml" value="0.13968579234972678" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/activity_layout_profile.xml" value="0.1837431693989071" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/activity_layout_publish.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/activity_layout_tag_feed_list.xml" value="0.15949453551912568" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/bg_edit_view.xml" value="0.15949453551912568" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/fragment_my.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_comment_dialog.xml" value="0.15949453551912568" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_feed_author.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_feed_comment_list_item.xml" value="0.13968579234972678" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_feed_detail_author_info.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_feed_detail_bottom_inateraction.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_feed_detail_type_image_header.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_feed_detail_type_video.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_feed_detail_type_video_header.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_profile_tab_comment_interaction.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_refresh_view.xml" value="0.13968579234972678" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_tag_bottom_sheet_dialog.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_tag_feed_list_header.xml" value="0.13968579234972678" />
+        <entry key="..\:/123/ppjoke/app/src/main/res/layout/layout_tag_list_item.xml" value="0.1" />
+        <entry key="..\:/123/ppjoke/libcommon/src/main/res/layout/layout_loading_view.xml" value="0.1635928961748634" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/drawable/list_divider.xml" value="0.20234375" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/activity_layout_login.xml" value="0.2" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/exo_simple_player_view.xml" value="0.190234375" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/fragment_dashboard.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/fragment_home.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/fragment_notifications.xml" value="0.17247267759562843" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/fragment_sofa.xml" value="0.14583333333333334" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/latout_feed_text.xml" value="0.19972826086956522" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_exo_plaer.xml" value="0.190234375" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_exo_player_controller_view.xml" value="0.190234375" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_exo_player_view.xml" value="0.1" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_feed_author.xml" value="0.2989571263035921" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_feed_interaction.xml" value="0.2723735408560311" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_feed_tag.xml" value="0.536" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_feed_text.xml" value="0.23596014492753623" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_feed_top_comment.xml" value="0.1" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_feed_type_image.xml" value="0.25364583333333335" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_feed_type_video.xml" value="0.23596014492753623" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_player_view.xml" value="0.1" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_refresh_view.xml" value="0.23143115942028986" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_share_item.xml" value="0.15915300546448088" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_simple_exo_player_controller_view.xml" value="0.190234375" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_simple_exo_player_view.xml" value="0.190234375" />
+        <entry key="..\:/AndroidLearning/ppjoke/app/src/main/res/layout/layout_top_comment.xml" value="0.37566137566137564" />
+        <entry key="..\:/AndroidLearning/ppjoke/libcommon/src/main/res/layout/layout.xml" value="0.23143115942028986" />
+        <entry key="..\:/AndroidLearning/ppjoke/libcommon/src/main/res/layout/layout_empty_view.xml" value="0.1" />
+        <entry key="..\:/AndroidLearning/ppjoke/libcommon/src/main/res/layout/layout_share_item.xml" value="0.16700819672131148" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
